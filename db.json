@@ -1,8 +1,50 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+ {
+        "id": 1,
+        "title": "Top 10 Travel Destinations for 2024",
+        "description": "A comprehensive guide to the best travel destinations for the upcoming year.",
+        "createdBy": "Alice Johnson",
+        "dateCreated": "2024-08-13",
+        "isFavorite": false,
+        "price": 0
+    },
+    {
+        "id": 2,
+        "title": "The Ultimate Guide to Vegan Cooking",
+        "description": "Explore delicious vegan recipes and tips for a plant-based lifestyle.",
+        "createdBy": "Bob Lee",
+        "dateCreated": "2024-07-25",
+        "isFavorite": true,
+        "price": 0
+    },
+    {
+        "id": 3,
+        "title": "How to Improve Your Productivity",
+        "description": "Effective strategies and tools to help you get more done in less time.",
+        "createdBy": "Charlie Adams",
+        "dateCreated": "2024-06-18",
+        "isFavorite": true,
+        "price": 0
+    },
+    {
+        "id": 4,
+        "title": "A Beginner's Guide to Investing",
+        "description": "Learn the basics of investing and how to start building your portfolio.",
+        "createdBy": "Dana White",
+        "dateCreated": "2024-05-10",
+        "isFavorite": false,
+        "price": 0
+    },
+    {
+        "id": 5,
+        "title": "The Benefits of Meditation",
+        "description": "Discover how meditation can improve your mental and physical well-being.",
+        "createdBy": "Emily Clark",
+        "dateCreated": "2024-04-02",
+        "isFavorite": true,
+        "price": 0
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
